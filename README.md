@@ -1,0 +1,2 @@
+# KMP-ALGORITHM
+pattern matching
